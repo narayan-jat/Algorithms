@@ -1,9 +1,9 @@
-/*This script implements the insertion sort algorithm in java.
- * User will be asked to given numbers from prompt and then numbers
- * will be returned in sorted order.
- * 
- * Author: Naerayan Jat
- * Date: 6 February 2024
+/*This script implements various sorting algortithms which includes Inserstion sort, Merge sort, Quick sort, Bubble sort
+and Selection sort. There is a separate class which generate an array of integers for all the sorting algorithmn. The 
+array will be same for all the algorithms. The size of array can be determined by user as per there conveniece.
+
+Author: Naerayan Jat
+Date: 6 February 2024
  */
 
 // Importing random module.
